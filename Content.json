@@ -1,0 +1,104 @@
+{
+    "Format":"1.23.0",
+    "Changes":
+    [
+        {
+            "action":"EditData",
+            "target":"data/npcdispositions",
+            "fields":
+            {
+                "Jodi":
+                {
+                    "5":"datable",
+                    "11":"Mrs Freddie"
+                },
+                "Kent":
+                {
+                    "11":"Mr freddie",
+                    "5":"datable"
+                },
+                "Lewis":
+                {
+                    "5":"datable",
+                    "11":"The Evil mayor",
+                    "1":"rude",
+                    "3":"Negative",
+                    "7":"Marnie"
+                },
+                "Krobus":
+                {
+                    "5":"datable",
+                    "11":"???"
+                },
+                "Marnie":
+                {
+                    "5":"secret",
+                    "11":"Anne"
+                },
+                "sandy":
+                {
+                    "5":"datable",
+                    "11":"Desert girl"
+
+                },
+                "wizard":
+                {
+                    "11":"Rasmodius",
+                    "5":"secret"
+                    
+                }
+            }
+            
+
+
+
+
+
+
+
+
+
+        },
+        {
+            "action":"editimage",
+            "target":"portraits/Jodi",
+            "fromfile":"Haleypor.png"
+        },
+        {
+            "action":"editimage",
+            "target":"characters/Jodi",
+            "fromfile":"Haley.png"
+        },
+        {
+            "action":"editimage",
+            "target":"portraits/Kent",
+            "fromfile":"Sampor.png"
+        },
+        {
+            "action":"editimage",
+            "target":"characters/Kent",
+            "fromfile":"Sam.png"
+        }
+        
+        
+        
+    ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
