@@ -1,0 +1,19 @@
+{
+    "Name":"Marry me",
+    "Author":"Kity",
+    "Version":"1.0.0",
+    "Description":"Allows you to marry a few of the towns folk",
+    "UniqueID":"Kity.Marryme",
+    "UpdateKey":[
+        "GitHub:Gottapip/-CP-Marry-me"
+    ],
+    "ContentPackFor":{
+        "UniqueID":"Pathoschild.Contentpatcher"
+    }
+
+
+
+
+
+
+}
