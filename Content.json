@@ -9,42 +9,27 @@
             {
                 "Jodi":
                 {
-                    "5":"datable",
-                    "11":"Mrs Freddie"
+                    "11":"Alice"
                 },
                 "Kent":
                 {
-                    "11":"Mr freddie",
-                    "5":"datable"
+                    "11":"Noah"
                 },
                 "Lewis":
                 {
-                    "5":"datable",
-                    "11":"The Evil mayor",
-                    "1":"rude",
-                    "3":"Negative",
-                    "7":"Marnie"
-                },
-                "Krobus":
-                {
-                    "5":"datable",
-                    "11":"???"
+                    "11":"Tommy"
                 },
                 "Marnie":
                 {
-                    "5":"secret",
-                    "11":"Anne"
+                    "11":"Agatha"
                 },
                 "sandy":
                 {
-                    "5":"datable",
-                    "11":"Desert girl"
-
+                    "11":"Elle"
                 },
                 "wizard":
                 {
-                    "11":"Rasmodius",
-                    "5":"secret"
+                    "11":"Rasmodius"
                     
                 }
             }
@@ -58,26 +43,6 @@
 
 
 
-        },
-        {
-            "action":"editimage",
-            "target":"portraits/Jodi",
-            "fromfile":"Haleypor.png"
-        },
-        {
-            "action":"editimage",
-            "target":"characters/Jodi",
-            "fromfile":"Haley.png"
-        },
-        {
-            "action":"editimage",
-            "target":"portraits/Kent",
-            "fromfile":"Sampor.png"
-        },
-        {
-            "action":"editimage",
-            "target":"characters/Kent",
-            "fromfile":"Sam.png"
         }
         
         

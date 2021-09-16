@@ -1,11 +1,11 @@
 {
-    "Name":"Marry me",
+    "Name":"World of pippin valley",
     "Author":"Kity",
     "Version":"1.0.0",
-    "Description":"Allows you to marry a few of the towns folk",
-    "UniqueID":"Kity.Marryme",
+    "Description":"Makes stardew valley more fun when you hit a wall",
+    "UniqueID":"Kity.Worldofpippinstardewvalley",
     "UpdateKey":[
-        "GitHub:Gottapip/-CP-Marry-me"
+        "GitHub:Gottapip/-CP-World-of-pippin-valley"
     ],
     "ContentPackFor":{
         "UniqueID":"Pathoschild.Contentpatcher"
