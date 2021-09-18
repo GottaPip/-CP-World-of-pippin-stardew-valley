@@ -33,17 +33,17 @@
                     
                 }
             }
+        },
+        {
+            "action":"EditData",
+            "target":"data/festivals"
+            
+        }
             
 
 
-
-
-
-
-
-
-
-        }
+            
+          
         
         
         
