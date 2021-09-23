@@ -3,42 +3,72 @@
     "Changes":
     [
         {
-            "action":"EditData",
+            "action":"Editdata",
             "target":"data/npcdispositions",
             "fields":
             {
-                "Jodi":
-                {
-                    "11":"Alice"
+                "Vincent":{
+                    "0":"adult"
+
                 },
-                "Kent":
-                {
-                    "11":"Noah"
-                },
-                "Lewis":
-                {
-                    "11":"Tommy"
-                },
-                "Marnie":
-                {
-                    "11":"Agatha"
-                },
-                "sandy":
-                {
-                    "11":"Elle"
-                },
-                "wizard":
-                {
-                    "11":"Rasmodius"
-                    
+                "Sam":{
+                    "0":"adult"
                 }
+
             }
         },
         {
-            "action":"EditData",
-            "target":"data/festivals"
-            
+            "action":"Load",
+            "target":"Portraits/Vincent",
+            "FromFile":"Assets/Vincent.png"
+        },
+        {
+            "action":"Load",
+            "target":"Characters/Vincent",
+            "FromFile":"Assets/Vincent SPRITE.png"
+        },
+        {
+            "action":"Load",
+            "target":"Maps/Mines/120",
+            "FromFile":"Assets/120.tmx"
+        },
+        {
+            "action":"Load",
+            "target":"Maps/BusStop",
+            "FromFile":"Assets/BusStop.tmx"
+        },
+        {
+            "action":"Load",
+            "target":"Maps/SamHouse",
+            "FromFile":"Assets/Apartments.tmx"
+        },
+        {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/Vincent",
+            "FromFile": "assets/Vincent.json"
+        },
+        {
+            "Action": "Load",
+            "Target": "Characters/schedules/Vincent",
+            "FromFile": "assets/Vincentsche.json"
+        },
+        {
+            "action":"Load",
+            "target":"Maps/Hospital",
+            "FromFile":"Assets/Saloon.tmx"
+        },
+        {
+            "action":"Load",
+            "target":"Maps/Saloon",
+            "FromFile":"Assets/Resturaunt.tmx"
+        },
+        {
+            "action":"Load",
+            "target":"Maps/Town",
+            "FromFile":"Assets/Townwapartment.tmx"
         }
+        
+
             
 
 
