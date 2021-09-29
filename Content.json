@@ -66,8 +66,27 @@
             "action":"Load",
             "target":"Maps/Town",
             "FromFile":"Assets/Townwapartment.tmx"
+        },
+        {
+            "action":"Load",
+            "target":"Maps/HaleyHouse",
+            "FromFile":"Assets/HaleyHouse.tmx"
+        },
+        {
+            "action":"Load",
+            "target":"Portraits/Emily",
+            "FromFile":"Assets/Haleypor.png"
+        },
+        {
+            "action":"Load",
+            "target":"Characters/Haley",
+            "FromFile":"Assets/Haley.png"
+        },
+        {
+            "action":"Load",
+            "target":"Maps/Mountain",
+            "FromFile":"Assets/Mountainwag.tmx"
         }
-        
 
             
 

@@ -1,20 +1,13 @@
 {
-    "Name":"World of pippin valley",
-    "Author":"Kity",
-    "Version":"1.0.0",
-    "Description":"Makes stardew valley more fun when you hit a wall",
-    "UniqueID":"Kity.Worldofpippinstardewvalley",
-    "UpdateKey":[
+    "Name": "Bug fixer",
+    "Author": "Kity",
+    "Version": "1.0.0",
+    "Description": "Needs World of pippin valley fixes its bugs EXPANTION",
+    "UniqueID": "Kity.Bugfixer",
+    "UpdateKey": [
         "GitHub:Gottapip/-CP-World-of-pippin-valley"
     ],
-    "ContentPackFor":
-    {
-        "UniqueID":"Pathoschild.Contentpatcher"
+    "ContentPackFor": {
+        "UniqueID": "Pathoschild.Contentpatcher"
     }
-
-
-
-
-
-
 }
